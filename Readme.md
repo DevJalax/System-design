@@ -11,3 +11,26 @@
 9) Content system [News]
 10) Search Engine + Browser
 
+# Biz domains
+
+1) Fintech , Banking , Insurance , Accounting , Trading [money related]
+2) Agritech
+3) Spacetech
+4) Energytech
+5) Telecom
+6) Tourism
+7) Semiconductors
+8) Automobile
+9) Cosmetics
+10) Biotech
+11) FMCG
+12) Real estate
+13) Heavy machinery
+14) Minerals
+15) Food and Beverage
+16) Furniture and home decor
+17) Oil and Gas
+18) Jewellery
+19) Hotel
+20) Hospital
+
